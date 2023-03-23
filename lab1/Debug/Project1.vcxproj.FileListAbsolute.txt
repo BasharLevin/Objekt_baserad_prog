@@ -1,0 +1,2 @@
+\\CAZFS001\folderredirect$\bale2100\Desktop\lab1\Project1\Debug\Project1.exe
+\\CAZFS001\folderredirect$\bale2100\Desktop\lab1\Project1\Debug\Project1.pdb

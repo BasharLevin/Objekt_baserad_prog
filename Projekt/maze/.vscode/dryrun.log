@@ -1,0 +1,5 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/b/Desktop/År 1 🥃/Termin 2/P4/oop/Projekt/maze'
+g++ -o programmet main.cpp maze.cpp 
+make: Leaving directory `/Users/b/Desktop/År 1 🥃/Termin 2/P4/oop/Projekt/maze'
+ 
